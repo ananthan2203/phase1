@@ -1,0 +1,44 @@
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+td {
+    border: 2px solid black;
+    padding: 20px;
+    font-size: 18px;
+}
+
+
+#logo {
+    background-color: pink;
+    width: 20%;
+}
+
+#top-menu {
+    background-color: yellow;
+    font-weight: bold;
+}
+
+#side-menu {
+    background-color: yellow;
+    font-weight: bold;
+}
+
+#ads {
+    background-color: pink;
+}
+
+#footer {
+    background-color: orange;
+    font-weight: bold;
+}
+
+
+.news {
+    background-color: white;
+    font-weight: bold;
+}
