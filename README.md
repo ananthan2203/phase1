@@ -23,7 +23,7 @@ This portfolio highlights some beginner-level projects I’ve developed using on
 
 ## 📂 Pages Included
 
-- `index1.html`: Main homepage showcasing projects  
+- `index.html`: Main homepage showcasing projects  
 - `about1.html`: About me, education, skills  
 - `contact1.html`: Contact form with personal details
 
